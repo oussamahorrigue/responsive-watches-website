@@ -1,13 +1,20 @@
-# Responsive Watches Website ⌚
-## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
-### Responsive Watches Website ⌚
+## Title:
+<h4>Oussama Horrigue - responsive-watches-website</h4>
 
-- Responsive Watches Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+## Author:
+<h4>Oussama Horrigue</h4>
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+## Link:
+<a href="https://oussamahorrigue.github.io/responsive-watches-website/" target="_blank"><h3>https://oussamahorrigue.github.io/responsive-watches-website/</h3></a>
 
-![preview img](/preview.png)
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/oussama-horrigue-69624b1b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/OussamaHorrig"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/oussamahorrigue/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/oussama.horrigue"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+
+</p>
+
